@@ -19,7 +19,7 @@ tfoot {
 
 th,
 td {
-  border: 1px solid rgb(160 160 160);
+  border: 1px solid rgb(147, 52, 52);
   padding: 8px 10px;
 }
 
@@ -38,3 +38,8 @@ tfoot th {
 tfoot td {
   font-weight: bold;
 }
+hr{
+  border: dashed green;
+  height: 20px;
+}
+
